@@ -52,7 +52,7 @@ module.exports = function productReviews () {
         res.status(403).json({ error: 'Not allowed' })
       }
     }, () => {
-      res.status(400).json({ error: 'Wrong Params' })
+      res.status(400).json({ error: 'Wrong Params' }) //comment here
     })
   }
 }
