@@ -1,5 +1,4 @@
 # Security Policy
-
 OWASP Juice Shop is an _intentionally vulnerable_ web application, but
 we still do not want to be suprised by zero day vulnerabilities which
 are not part of our hacking challenges. We are following the proposed
@@ -9,8 +8,7 @@ expected location described in
 <https://tools.ietf.org/html/draft-foudil-securitytxt-06>. Finding it is
 actually one of our hacking challenges!
 
-## Supported Versions
-
+## Supported Versions!
 We provide security patches for the latest released minor version.
 
 | Version | Supported          |
